@@ -9,6 +9,7 @@ I build practical web applications and turn ideas into working projects while co
 - 💱 **[Laravel Currency Converter](https://github.com/krmad/laravel-currency-converter)** — A currency converter built with Laravel, Blade, and PHP
 - 🛒 **[E-Commerce System](https://github.com/krmad/E_commerce_System)** — A shopping platform built with JavaScript and TypeScript
 - 🏠 **[UDMP Adama Rental House](https://github.com/krmad/udmp_adama_rental_house)** — A PHP rental-house management project
+- 🚨 **[Crime Management](https://github.com/krmad/crime-management)** — A Laravel and Blade application for managing crime-related records
 - 🎨 **[Demo Web](https://github.com/krmad/Demo-web)** — A responsive web demo using HTML, CSS, and JavaScript
 
 ## 🛠️ Technologies
